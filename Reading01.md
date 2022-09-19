@@ -31,11 +31,12 @@ Ease of development − Components implement well-known interfaces to provide de
 
 ## What is “props” short for?
 
-
+**"arguments passed into React components"**
 
 ## How are props used in React?
 
-
+**It passes data from one component to another**
 
 ## What is the flow of props?
 
+**from a parent component to a child components**
