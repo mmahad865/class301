@@ -31,7 +31,7 @@ Ease of development − Components implement well-known interfaces to provide de
 
 ## What is “props” short for?
 
-**"arguments passed into React components"**
+**It stands for properties.**
 
 ## How are props used in React?
 
