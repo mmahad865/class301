@@ -6,7 +6,7 @@
 
 
 ## What are the characteristics of a component?
--Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.-
+- Reusability − Components are usually designed to be reused in different situations in different applications. However, some components may be designed for a specific task.
 
 -Replaceable − Components may be freely substituted with other similar components.-
 
