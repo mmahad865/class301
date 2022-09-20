@@ -11,7 +11,7 @@
 **it Involks the component**
 
 ## What types of things can you pass in the props?
-**"pass values from one component to another component down the component tree."
+**"pass values from one component to another component down the component tree."**
 ## What is the big difference between props and state?
 **Prop pass value from one to component to another, state s a local data storage that is local to the component only and cannot be passed to other components**
 ## When do we re-render our application?
