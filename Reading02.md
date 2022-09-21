@@ -16,3 +16,7 @@
 **Prop pass value from one to component to another, state s a local data storage that is local to the component only and cannot be passed to other components**
 ## When do we re-render our application?
 **when it needs an Update**
+
+## What are some examples of things that we could store in state?
+
+**String, data, numbers**
