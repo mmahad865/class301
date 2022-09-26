@@ -3,7 +3,7 @@
 ## What is node.js?
 Node.js® is a JavaScript runtime built on Chrome’s V8 JavaScript engine.
 ## In your own words, what is Chrome’s V8 JavaScript Engine?
-**is the open-source JavaScript engine that runs in Google Chrome **
+**is the open-source JavaScript engine that runs in Google Chrome**
 ## What does it mean that node is a JavaScript runtime?
 **Node js doesn't wast time to run**
 ## What is npm?
