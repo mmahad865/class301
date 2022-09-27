@@ -15,3 +15,15 @@
 **creates a new resource or replaces a representation of the target resource with the request payload.**
 ## hat does PATCH do?
 **applies partial modifications to a resource**
+
+## Did you get your API key?
+
+**pk.6d51b6c0fb2d3ae5b93c866f41665105**
+## Did you get your API key?
+**6da52dae0f754cc098c393736ead846d**
+
+## Did you get your API key?
+**https://api.yelp.com/v3/businesses/search**
+
+## Did you get your API key?
+**d2f160d8208440cacdbeddc33287cce4**
