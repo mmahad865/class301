@@ -15,3 +15,11 @@
 ## What is Referential transparency?
 **"he fact that an expression, in a program, may be replaced by its value (or anything having the same value) without changing the result of the program"**
 
+## What is a module?
+**Seprate code you can call on, different file.**
+## What does the word ‘require’ do?
+**Another way of referring to another file.**
+## How do we bring another module into the file the we are working in?
+**use module.expert**
+## What do we have to do to make a module available?
+**use the module name + require.**
